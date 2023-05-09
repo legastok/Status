@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T10:38:51.559Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="FK4B0cf_G29bP6e3k62F" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T10:45:39.491Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="c1dHYuyf5N6DMhY405wB" version="21.2.9" type="github">
   <diagram name="Страница 1" id="bMrQ0MzoH_sZkKh2n9hR">
     <mxGraphModel dx="1440" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -153,6 +153,21 @@
             <Array as="points">
               <mxPoint x="470" y="600" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cwWUCkyU1rJAub2ugfKa-46" value="Договора доверительного управления" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="562" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cwWUCkyU1rJAub2ugfKa-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cwWUCkyU1rJAub2ugfKa-34" target="cwWUCkyU1rJAub2ugfKa-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="350" as="sourcePoint" />
+            <mxPoint x="710" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cwWUCkyU1rJAub2ugfKa-48" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="980" y="560" as="sourcePoint" />
+            <mxPoint x="1040" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
